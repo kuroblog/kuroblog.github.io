@@ -2,4 +2,4 @@
 
 kuro-blog
 
-[doc](./DOC/README.md)
+[doc](./Doc/README.md)
